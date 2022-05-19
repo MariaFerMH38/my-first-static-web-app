@@ -1,21 +1,12 @@
-* {
-  font-family: Arial, Helvetica, sans-serif;
+body{
+	background: #ead1dc;
 }
+h1{
+	color: 	#dea3bd;
+	font-style: italic
 
-html, body {
-  margin: 0;
-  border: 0;
-  padding: 0;
-  background-color: #fff;
 }
-
-main {
-  margin: auto;
-  width: 50%;
-  padding: 20px;
-}
-
-main > h1 {
-  text-align: center;
-  font-size: 3.5em;
+h4{
+	color: #d96f9e;
+	font-style: oblique;
 }
